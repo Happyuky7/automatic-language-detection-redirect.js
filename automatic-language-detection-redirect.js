@@ -8,4 +8,7 @@ var fallbackLanguage = "en";
 var language = supportedLanguages[(navigator.language || navigator.userLanguage).substring(0,2)] || fallbackLanguage;
 
 // Go to the language version of your website. Example: https://domain.com/en/
+
+// Place the "." by your web domain, since the point is to test it in a local file
+
 location.replace("." +  "/" + language + "/" + "index.html");
