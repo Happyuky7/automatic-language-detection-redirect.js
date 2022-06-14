@@ -1,5 +1,7 @@
 # automatic-language-detection-redirect.js
 
+[My website](https://happyrogelio7.xyz), My website 
+
 [Discord](https://discord.gg/3EebYUyeUX), Support My Server Discord
 
 [Kaory Studios](https://kaorystudios.xyz), Support Kaoty Studios
