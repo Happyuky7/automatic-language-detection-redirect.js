@@ -20,3 +20,11 @@ var language = supportedLanguages[(navigator.language || navigator.userLanguage)
 location.replace("." +  "/" + language + "/" + "index.html");
 
 ```
+
+--- 
+
+## Special Thanks To
+
+![Visual Studio Code logo](https://raw.githubusercontent.com/HappyRogelio7/automatic-language-detection-redirect.js/master/vscode.png?size=100x100)
+
+[Visual Studio Code](https://www.jetbrains.com/idea/), Code editor for Java and other programming languages and programs.
