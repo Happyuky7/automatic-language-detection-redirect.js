@@ -1,5 +1,16 @@
 # automatic-language-detection-redirect.js
-automatic-language-detection-redirect.js
+
+[Discord](https://discord.gg/3EebYUyeUX), Support My Server Discord
+
+[Kaory Studios](https://kaorystudios.xyz), Support Kaoty Studios
+
+[Kaory Studios Discord](https://discord.gg/Gw7m8kC), Support Kaoty Studios
+
+## Using:
+```html
+<script class="type/javascript" src="js/automatic-language-detection-redirect.js"></script>
+```
+
 
 ```javascript
 //automatic-language-detection-redirect.js
@@ -27,4 +38,4 @@ location.replace("." +  "/" + language + "/" + "index.html");
 
 ![Visual Studio Code logo](https://raw.githubusercontent.com/HappyRogelio7/automatic-language-detection-redirect.js/master/vscode.png?size=100x100)
 
-[Visual Studio Code](https://www.jetbrains.com/idea/), Code editor for Java and other programming languages and programs.
+[Visual Studio Code](https://code.visualstudio.com/), Code editing. Redefined. Free. Built on open source. Runs everywhere
